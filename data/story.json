@@ -1,0 +1,443 @@
+{
+   "story": [
+        {
+            "id": 0,
+            "title": "Act I: The love",
+            "description": "The downfall",
+            "choices": [
+                {  
+                    "label": "Continue", 
+                    "target_id": 2 
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "The war",
+            "description": "Ireland and Cornwall is in war",
+            "choices": [
+                {  
+                    "label": "Continue", 
+                    "target_id": 3 
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Isolde's journey",
+            "description": "Isolde is taken by the so great hero Tristan, but is given one final gift by her mother. Two potions",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 4 
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "The marriage",
+            "description": "Isolde marries the old King Mark of Cornwall. A charming man that Isolde fell in love with at first sight",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 5 
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Envy",
+            "description": "I hate that god forsaken brat, she has always gotten what she wanted! I'll KILL her, this time I will...",
+            "choices": [
+                { 
+                "label": "Continue", 
+                "target_id": 6
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Act 2: Downward spiral",
+            "description": "Deep below",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 5 
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "The potions",
+            "description": "With this I will finally be more than a humble servant...",
+            "choices": [
+                { 
+                    "label": "Deaths release", 
+                    "target_id": 34 
+                },
+                {
+                    "label": "Loves dread",
+                    "target_id": 7
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "The domed love",
+            "description": "With that one potion of mysteries Tristan and Isolde fell madly in love. It was a cruel forbidden love, calculated and unforgiving, a seed planted, sowed and picked by me...",
+            "choices": [
+                { 
+                    "label": "Squeal to the King", 
+                    "target_id": 8
+                },
+                {
+                    "label": "Don't tell the King",
+                    "target_id": 21
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "The meeting",
+            "description": "O gracious King Mark, Ireland's brightest sun, I wish to inform you of the unfortunate news of your wifes blasphemy. Gather your finest solider's and meet me tonight in the garden...",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 9 
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "The discovery",
+            "description": "You dare insult me the King, your uncle... By taking the most precious person from me in the world you have failed me Tristan!",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 10 
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Act 3: Tristan's death",
+            "description": "Our wretched lady",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 11
+                }
+            ]
+        },      
+        {
+            "id": 11,
+            "title": "The wound",
+            "description": "Now that sir Tristan is badly wounded I can finally finish my grand plan to take the seat of luxury",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 12
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "The decision",
+            "description": "Please don't cry dear Isolde, Tristan's a warrior, a hero, he is strong. If you truly wish to meet him, I might know where to find him...",
+            "choices": [
+                { 
+                    "label": "Tell Isolde", 
+                    "target_id": 13
+                },
+                { 
+                    "label": "Don't tell her", 
+                    "target_id": 19
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "The death",
+            "description": "No-no, dear Tristan please don't go! I love you and you love me... Don't leave me in this wretched world all alone!",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 14
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "title": "The choice",
+            "description": "...",
+            "choices": [
+                { 
+                    "label": "Bring death", 
+                    "target_id": 15
+                },
+                { 
+                    "label": "Leave death", 
+                    "target_id": 20
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "The drink",
+            "description": "I have waited long for this moment...",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 16
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "The sorrow",
+            "description": "Dear Mark, don't dwell on their death, they were unworthy of your precious love",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 17
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "The ring",
+            "description": "Brangäne I love you, you are the most wonderful person. Please serve by my side as queen of Cornwall",
+            "choices": [
+                { 
+                    "label": "Accept", 
+                    "target_id": 18
+                },
+                { 
+                    "label": "Decline", 
+                    "target_id": 33
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": "The luxury",
+            "description": "From there on I lived happily ever after",
+            "choices": [
+                { 
+                    "label": "Start over", 
+                    "target_id": 0
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "title": "The forsaken",
+            "description": "Isolde! Don't go with him you are my only light left!",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 17
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "The fail",
+            "description": "Isolde has returned to the king and I shall stay by her side for all eternity.",
+            "choices": [
+                { 
+                    "label": "Start over", 
+                    "target_id": 0
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "title": "The secret",
+            "description": "Your secret is safe with me Isolde! \n- 'Being quick doesn't catch the feast...'",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 22
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Act 3: Isolde's death",
+            "description": "The fragile",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 23
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "title": "The potion",
+            "description": "With this I will finally hold the crown...",
+            "choices": [
+                { 
+                    "label": "Poison Isolde", 
+                    "target_id": 24
+                },
+                {
+                    "label": "destroy it",
+                    "target_id": 30
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "title": "The maidens death",
+            "description": "Isolde. Dear Isolde, I never meant to hurt you. For you are my precious friend, but it had to be done... ",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 25
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "title": "The broken",
+            "description": "N-n-no...",
+            "choices": [
+                { 
+                    "label": "Poison Tristan", 
+                    "target_id": 26
+                },
+                {
+                    "label": "Run away", 
+                    "target_id": 28  
+                }
+            ]
+        }, 
+        {
+            "id": 26,
+            "title": "The envoy",
+            "description": "This isn't fair! I didn't kill my dear Isolde. How could I ever murder such precious ray of sunshine!",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 27
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "title": "The execution",
+            "description": "Brangäne is hear by sentenced to the fiery pits of fairy land!",
+            "choices": [
+                { 
+                    "label": "Start over", 
+                    "target_id": 0
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "title": "The squeaker",
+            "description": "Your majesty, I have a dire message to deliver! Brangäne has mercilessly sent of Isolde to the fairy land!",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 29
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "title": "The capture",
+            "description": "Capture the heretic! Whoever brings her to me first will be rewarded handsomely with treasures beyond belief!",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 27
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "title": "The reveal",
+            "description": "King Mark, I can't hide it anymore. My love for Tristan is bigger than life itself even more merciless than fairy land.",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 31
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "title": "The again",
+            "description": "Finally! She'll be of to fairy land, my plan is working...",
+            "choices": [
+                { 
+                    "label": "Continue", 
+                    "target_id": 32
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "title": "The proposal",
+            "description": "Isolde, you've consoled me and always been by my side. Please serve by my side as queen of Cornwall",
+            "choices": [
+                { 
+                    "label": "Accept", 
+                    "target_id": 18
+                },
+                { 
+                    "label": "Decline", 
+                    "target_id": 33
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "title": "The again",
+            "description": "Maybe money and power is everything. After all that im all but content, rather I regret my choices maybe then would I still have dear Isolde by my side...",
+            "choices": [
+                { 
+                    "label": "Start over", 
+                    "target_id": 0
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "title": "The dread",
+            "description": "Now with both Isolde and Tristan out of the way I can finally take the crown!",
+            "choices": [
+                {  
+                    "label": "Continue", 
+                    "target_id": 35 
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "title": "The mistake",
+            "description": "Capture the traitor! Whoever brings her to me will be rewarded handsomely with treasures beyond belief!",
+            "choices": [
+                {  
+                    "label": "Continue", 
+                    "target_id": 36
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "title": "The escape",
+            "description": "And I was never seen again in the kingdom of Cornwall...",
+            "choices": [
+                {  
+                    "label": "Start over", 
+                    "target_id": 0
+                }
+            ]
+        }
+    ]
+}
