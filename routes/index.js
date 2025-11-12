@@ -1,5 +1,4 @@
 import express from "express"
-import fs, {read} from "fs"
 
 const router = express.Router()
 
@@ -11,16 +10,9 @@ const router = express.Router()
 
 router.get("/", (req, res) => {
     res.render("index.njk", {
-        title: "Hello",
+        title: "Hello and welcome to my humble story about Tristan and Isolde",
         message: "With great concern"
     })
 })
-
-// router.get("/story", (req, res) => {
-//     res.render("story.njk", {
-//         title: "story",
-//         story
-//     })
-// })
 
 export default router

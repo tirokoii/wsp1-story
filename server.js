@@ -2,6 +2,7 @@
 // In here all the magic happens
 
 import indexRouter from "./routes/index.js"
+import storyRouter from "./routes/story.js"
 
 import express from "express"
 import nunjucks from "nunjucks"
@@ -13,6 +14,7 @@ app.use(morgan("dev"))
 app.use(express.static("public"))
 
 app.use("/", indexRouter)
+app.use("/story", storyRouter)
 
 nunjucks.configure("views", {
     auroescape: true,

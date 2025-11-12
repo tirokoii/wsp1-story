@@ -13,3 +13,4 @@ Morgan is a middleware logger, it will record problems and or other important me
 - app.use(morgan("dev"))
 Uses express to use and starts morgan as dev?
 
+If the server.js router is called /story the / in the story.js folder automatically becomes /story
