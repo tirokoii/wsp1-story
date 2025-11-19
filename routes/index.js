@@ -10,7 +10,7 @@ const router = express.Router()
 
 router.get("/", (req, res) => {
     res.render("index.njk", {
-        title: "Hello and welcome to my humble story about Tristan and Isolde",
+        title: "Hi",
         message: "With great concern"
     })
 })

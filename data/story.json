@@ -3,11 +3,11 @@
         {
             "id": 0,
             "title": "Act I: The love",
-            "description": "The downfall",
+            "description": "Dawn falls",
             "choices": [
                 {  
                     "label": "Continue", 
-                    "target_id": 2 
+                    "target_id": 1 
                 }
             ]
         },
@@ -18,18 +18,18 @@
             "choices": [
                 {  
                     "label": "Continue", 
-                    "target_id": 3 
+                    "target_id": 2 
                 }
             ]
         },
         {
             "id": 2,
-            "title": "Isolde's journey",
+            "title": "The maidens journey",
             "description": "Isolde is taken by the so great hero Tristan, but is given one final gift by her mother. Two potions",
             "choices": [
                 { 
                     "label": "Continue", 
-                    "target_id": 4 
+                    "target_id": 3 
                 }
             ]
         },
@@ -40,18 +40,18 @@
             "choices": [
                 { 
                     "label": "Continue", 
-                    "target_id": 5 
+                    "target_id": 4 
                 }
             ]
         },
         {
             "id": 4,
-            "title": "Envy",
+            "title": "The envy",
             "description": "I hate that god forsaken brat, she has always gotten what she wanted! I'll KILL her, this time I will...",
             "choices": [
                 { 
                 "label": "Continue", 
-                "target_id": 6
+                "target_id": 5
                 }
             ]
         },
@@ -62,7 +62,7 @@
             "choices": [
                 { 
                     "label": "Continue", 
-                    "target_id": 5 
+                    "target_id": 6 
                 }
             ]
         },
